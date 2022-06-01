@@ -1,0 +1,1 @@
+This project created by using netninjauk tutorial and in this project we are focusing on JavaScript array methods.
